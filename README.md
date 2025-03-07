@@ -1,6 +1,6 @@
 <h1> Me chamo Erika, bem vindo ao meu mundo! :blush: </h1>
 
-<p> Este é o texto de apresentação </p>
+<p>:round_pushpin: Morando atualmente em São Paulo do Potengi/RN </p>
 
 <p>Tchau!</p>
 
